@@ -211,7 +211,7 @@ section {
     border-radius: 8px;
 }
 .menu-grid {
-    grid-template-columns: repeat(3, 1fr) !important;
+    grid-template-columns: repeat(3, 1fr);
 }
 
 .menu-card {
